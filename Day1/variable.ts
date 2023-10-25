@@ -5,5 +5,6 @@ let nameing: string = "rakibul";
 
 let number: number = 54;
 let newnameing = nameing.toUpperCase();
+let doWork: boolean = false;
 console.log(nameing, number);
-console.log(newnameing);
+console.log(newnameing, doWork);
