@@ -13,3 +13,5 @@ const person: User = {
 };
 person.email = "amirtumi@gmail.com";
 console.log(person);
+
+/*  Benifites of typescript Type checking,Contract definition,Documentation and readability,Reusability,Code navigation and autocompletion,Easier refactoring */
